@@ -1,0 +1,13 @@
+body {
+    margin: 0cm;
+}
+
+.cover {
+    height: 400px;
+    background-image: url("imagenes/cielo abierto.jpg");
+    color: white;
+    background-size: cover;
+    background-position: start;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: darken;
+}
